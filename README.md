@@ -6,3 +6,4 @@ You will need a GoDaddy developer account.
 Go to GoDaddy developer site to create a developer account and get your key and secret
 
 https://developer.godaddy.com/getstarted
+https://www.godaddy.com/community/Managing-Domains/Dynamic-DNS-Updates/m-p/48744
